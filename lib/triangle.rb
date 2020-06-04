@@ -16,17 +16,10 @@ class Triangle
     end
   end
 
-=======
-   def kind
-   end
->>>>>>> a3af2cb2849885dc36298ee93d030051e457412f
+
   # triangle code
 
   class TriangleError < StandardError
     # triangle error code
   end
-<<<<<<< HEAD
-
-=======
->>>>>>> a3af2cb2849885dc36298ee93d030051e457412f
 end
