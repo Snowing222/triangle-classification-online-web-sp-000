@@ -1,5 +1,5 @@
 class Triangle
-<<<<<<< HEAD
+
   def initialize(a,b,c)
     @triangle=[a,b,c].sort
   end
